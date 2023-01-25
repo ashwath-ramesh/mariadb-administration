@@ -1,11 +1,9 @@
-# install-mysql-linux-vm
-Install a MYSQL database on a linux virtual machine
+# mariadb administratopn
+xxx
 
 ## Install MySQL
 
-sudo apt update
-sudo apt install mysql-server
-sudo systemctl start mysql.service
+
 
 ## Configure MySQL
 
